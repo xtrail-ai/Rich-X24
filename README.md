@@ -1,6 +1,6 @@
 # Rich-X24- OPEN SOURCE MODEL
 
-**India's First Open source Model **
+**India's First Open source Model**
 
 visit the hugging face to use the model
 **https://huggingface.co/Harishapc/Rich-X24**
