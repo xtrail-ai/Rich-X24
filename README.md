@@ -1,4 +1,4 @@
-# Rich-X24
+# Rich-X24- OPEN SOURCE MODEL
 
 **India's First Open source Model **
 
